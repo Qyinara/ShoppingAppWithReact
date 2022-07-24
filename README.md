@@ -1,3 +1,37 @@
+# Shopping app with React 
+
+
+
+
+## Used Technologies
+React, Reactstrap, Json-Server
+
+
+## in-app image
+
+Main-Page
+[![image](https://www.linkpicture.com/q/screencapture-localhost-3001-2022-07-24-22_34_03.png)](https://www.linkpicture.com/view.php?img=LPic62dd9effe77f1691887193)
+
+
+adding item to cart / alertify
+[![image](https://www.linkpicture.com/q/screencapture-localhost-3001-2022-07-24-22_34_15.png)](https://www.linkpicture.com/view.php?img=LPic62dd9fb1b6b121925206829)
+
+
+Cart from navbar
+[![image](https://www.linkpicture.com/q/screencapture-localhost-3001-2022-07-24-22_34_26.png)](https://www.linkpicture.com/view.php?img=LPic62dd9ffb541ec327806114)
+
+
+Cart page and removing item alertify
+[![image](https://www.linkpicture.com/q/screencapture-localhost-3001-cart-2022-07-24-22_34_41.png)](https://www.linkpicture.com/view.php?img=LPic62dda0525c39d1465903509)
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
